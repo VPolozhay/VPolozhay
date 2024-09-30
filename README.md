@@ -24,3 +24,4 @@ My name is Vlad, I am an iOS developer based in Saint Petersburg.
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
