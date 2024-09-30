@@ -10,7 +10,7 @@ My name is Vlad, I am an iOS developer based in Saint Petersburg.
   - telegram: [@ololo_pololo](https://t.me/ololo_pololo)
   - phone number: +79158344129
 ### Languages:
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="margin-right: 30px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
