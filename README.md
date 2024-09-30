@@ -10,15 +10,16 @@ My name is Vlad, I am an iOS developer based in Saint Petersburg.
   - telegram: [@ololo_pololo](https://t.me/ololo_pololo)
   - phone number: +79158344129
 ### Languages:
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="margin-right: 30px;">
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/>
 </a>
+
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
