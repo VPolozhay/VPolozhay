@@ -9,5 +9,5 @@ My name is Vlad, I am an iOS developer based in Saint Petersburg.
   - email: polozhay.vlad@gmail.com
   - telegram: [@ololo_pololo](https://t.me/ololo_pololo)
   - phone number: +79158344129
-### Random Dev Quote
+## Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
