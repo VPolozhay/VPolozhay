@@ -10,17 +10,10 @@ My name is Vlad, I am an iOS developer based in Saint Petersburg.
   - telegram: [@ololo_pololo](https://t.me/ololo_pololo)
   - phone number: +79158344129
 ### Languages:
-<p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> 
-  </a>
-</p>
+[![Swift](https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg)](https://developer.apple.com/swift/)
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
+[![Objective-C](https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
+
 
 
 ### Random Dev Quote
